@@ -1,0 +1,14 @@
+C:\Trabajo independiente\LGSoft.Farmacia\Farmacia.Test\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Trabajo independiente\LGSoft.Farmacia\Farmacia.Test\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Trabajo independiente\LGSoft.Farmacia\Farmacia.Test\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Trabajo independiente\LGSoft.Farmacia\Farmacia.Test\bin\Debug\netcoreapp2.2\Farmacia.Test.deps.json
+C:\Trabajo independiente\LGSoft.Farmacia\Farmacia.Test\bin\Debug\netcoreapp2.2\Farmacia.Test.runtimeconfig.json
+C:\Trabajo independiente\LGSoft.Farmacia\Farmacia.Test\bin\Debug\netcoreapp2.2\Farmacia.Test.runtimeconfig.dev.json
+C:\Trabajo independiente\LGSoft.Farmacia\Farmacia.Test\bin\Debug\netcoreapp2.2\Farmacia.Test.dll
+C:\Trabajo independiente\LGSoft.Farmacia\Farmacia.Test\bin\Debug\netcoreapp2.2\Farmacia.Test.pdb
+C:\Trabajo independiente\LGSoft.Farmacia\Farmacia.Test\obj\Debug\netcoreapp2.2\Farmacia.Test.csprojAssemblyReference.cache
+C:\Trabajo independiente\LGSoft.Farmacia\Farmacia.Test\obj\Debug\netcoreapp2.2\Farmacia.Test.csproj.CoreCompileInputs.cache
+C:\Trabajo independiente\LGSoft.Farmacia\Farmacia.Test\obj\Debug\netcoreapp2.2\Farmacia.Test.AssemblyInfoInputs.cache
+C:\Trabajo independiente\LGSoft.Farmacia\Farmacia.Test\obj\Debug\netcoreapp2.2\Farmacia.Test.AssemblyInfo.cs
+C:\Trabajo independiente\LGSoft.Farmacia\Farmacia.Test\obj\Debug\netcoreapp2.2\Farmacia.Test.dll
+C:\Trabajo independiente\LGSoft.Farmacia\Farmacia.Test\obj\Debug\netcoreapp2.2\Farmacia.Test.pdb

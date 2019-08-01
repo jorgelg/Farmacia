@@ -1,0 +1,9 @@
+C:\Trabajo independiente\LGSoft.Farmacia\Farmacia.BE\bin\Debug\netcoreapp2.2\Farmacia.BE.deps.json
+C:\Trabajo independiente\LGSoft.Farmacia\Farmacia.BE\bin\Debug\netcoreapp2.2\Farmacia.BE.dll
+C:\Trabajo independiente\LGSoft.Farmacia\Farmacia.BE\bin\Debug\netcoreapp2.2\Farmacia.BE.pdb
+C:\Trabajo independiente\LGSoft.Farmacia\Farmacia.BE\obj\Debug\netcoreapp2.2\Farmacia.BE.csprojAssemblyReference.cache
+C:\Trabajo independiente\LGSoft.Farmacia\Farmacia.BE\obj\Debug\netcoreapp2.2\Farmacia.BE.csproj.CoreCompileInputs.cache
+C:\Trabajo independiente\LGSoft.Farmacia\Farmacia.BE\obj\Debug\netcoreapp2.2\Farmacia.BE.AssemblyInfoInputs.cache
+C:\Trabajo independiente\LGSoft.Farmacia\Farmacia.BE\obj\Debug\netcoreapp2.2\Farmacia.BE.AssemblyInfo.cs
+C:\Trabajo independiente\LGSoft.Farmacia\Farmacia.BE\obj\Debug\netcoreapp2.2\Farmacia.BE.dll
+C:\Trabajo independiente\LGSoft.Farmacia\Farmacia.BE\obj\Debug\netcoreapp2.2\Farmacia.BE.pdb
